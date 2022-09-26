@@ -1,1 +1,0 @@
-下载汉化包，解压至"...\GarrysMod\garrysmod\addons"
